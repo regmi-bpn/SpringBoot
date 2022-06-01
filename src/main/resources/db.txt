@@ -1,0 +1,7 @@
+insert into alien values (101, 'bipin', 'java');
+insert into alien values (102, 'rabin', 'django');
+insert into alien values (103, 'prabin', 'python');
+insert into alien values (104, 'sabin', 'laravel');
+insert into alien values (105, 'kabin', 'bootstrap');
+insert into alien values (106, 'babin', 'php');
+insert into alien values (107, 'dustbin', 'java');
